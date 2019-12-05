@@ -1,1 +1,6 @@
 # Automatic-Traffic-Sign-Detection-
+
+1. Introduction
+In order to solve the concerns over road and transportation safety, automatic traffic sign detection and recognition (TSDR) system has been introduced. An automatic TSDR system can detect and recognise traffic signs from and within images captured by cameras or imaging sensors [1]. In adverse traffic conditions, the driver may not notice traffic signs, which may cause accidents. In such scenarios, the TSDR system comes into action. The main objective of the research on TSDR is to improve the robustness and efficiency of the TSDR system. To develop an automatic TSDR system is a tedious job given the continuous changes in the environment and lighting conditions. Among the other issues that also need to be addressed are partial obscuring, multiple traffic signs appearing at a single time, and blurring and fading of traffic signs, which can also create problem for the detection purpose. For applying the TSDR system in real-time environment, a fast algorithm is needed. As well as dealing with these issues, a recognition system should also avoid erroneous recognition of nonsigns.
+
+The aim of this research is to develop an efficient TSDR system which can detect and classify traffic signs into different classes in real-time environment.
